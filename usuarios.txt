@@ -1,0 +1,4 @@
+Cami,1234,dfgdfg,34,4,5.5,1.75
+ajsja,nsans,ckjvnc,34,34,4.0,1.25
+Ortiz,12345,dfsfds,4,43,2.5,1.75
+kaskasa,234654,fxgfhdf,4,4,1.6,0.75
